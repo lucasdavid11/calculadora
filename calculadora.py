@@ -128,6 +128,7 @@ def igual():#REALIZA AS CONTAS
         resultado = numero1-numero2
         resultado = str(resultado)
         textuser.delete(0, END)
+        textuser.insert(0, resultado)
 
     fclick=True
     fdivisao=False
