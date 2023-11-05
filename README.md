@@ -2,7 +2,7 @@
 
 # Sobre o projeto
 
-Calculadora programada em python utilizando a biblioteca Tkinter .Feita e estilizada por Lucas David Roscziniak Costa
+Calculadora programada em python utilizando a biblioteca Tkinter.
 
 # Technologies used
 
